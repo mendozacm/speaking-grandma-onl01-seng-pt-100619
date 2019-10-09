@@ -1,5 +1,5 @@
 def speak_to_grandma(phrase)
-  if string 
+  if string == string.upcase
   
 
 
